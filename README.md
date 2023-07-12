@@ -7,18 +7,9 @@ The code provided is a bash script that can be executed directly on a Debian sys
 
 To use the script, you can follow these steps:
 
-    Open a text editor and copy the code into a new file.
+copy code into text editor, save as .sh extension. make it executable with the following:
 
-    Save the file with a .sh extension, for example, package_installer.sh.
-
-    Make the script executable by running the following command in the terminal:
-
-    bash
 
 chmod +x package_installer.sh
-
-Execute the script with the following command:
-
-bash
 
 ./package_installer.sh
